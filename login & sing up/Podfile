@@ -1,0 +1,7 @@
+platform :ios, '12.0'
+
+target 'StartParseProject' do
+  use_frameworks!
+
+  pod 'Parse'
+end
